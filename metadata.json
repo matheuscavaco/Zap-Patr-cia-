@@ -1,0 +1,7 @@
+{
+  "name": "ZapClone - Patricia VIP",
+  "description": "Chat simulado com Patricia, criadora de conteúdo exclusivo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
